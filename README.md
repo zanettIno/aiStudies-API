@@ -10,7 +10,6 @@
 
 ![Express](https://img.shields.io/badge/EX-Express-black) &nbsp;
 ![JSON](https://img.shields.io/badge/JSON-black) &nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-black) &nbsp;
 ![npm](https://img.shields.io/badge/npm-red) &nbsp;
 ![dotenv](https://img.shields.io/badge/.ENV-yellow) &nbsp;
 ![TypeScript](https://img.shields.io/badge/TS-TypeScript-blue) &nbsp;
